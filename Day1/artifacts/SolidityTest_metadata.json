@@ -17,9 +17,9 @@
 				"name": "getResult",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "string",
 						"name": "",
-						"type": "uint256"
+						"type": "string"
 					}
 				],
 				"payable": false,
@@ -36,7 +36,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day1/code2.sol": "SolidityTest"
+			"Day1/code3.sol": "SolidityTest"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -47,11 +47,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day1/code2.sol": {
-			"keccak256": "0x994903b69864a4a8692903cf2b63f1b9921012f435b2877360f42f72f20a20a3",
+		"Day1/code3.sol": {
+			"keccak256": "0xa7138521bc1cce9dcc71c27c108830599ca9059cd677302c54150ea9669c988d",
 			"urls": [
-				"bzz-raw://fdb5f1f7c3eac33ba98b8dc1668052db792677014dc3846fc7bfedbb695c7e9a",
-				"dweb:/ipfs/QmTgBSKLTvfxxhmvzFHDcH5UZaLBQAwRaBffoAnjmgs6BV"
+				"bzz-raw://bd99f5d0f4bbbd4ce0881c48f2cd3241f1e165b89f21f22634ff5159b9070c20",
+				"dweb:/ipfs/QmXZvnbv6tquaMbfXwyVuEJXGpikuWygkHPck6YFyaTbfR"
 			]
 		}
 	},
