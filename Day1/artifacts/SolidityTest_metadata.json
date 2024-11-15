@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getResult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day1/code2.sol": "SolidityTest"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day1/code2.sol": {
+			"keccak256": "0x994903b69864a4a8692903cf2b63f1b9921012f435b2877360f42f72f20a20a3",
+			"urls": [
+				"bzz-raw://fdb5f1f7c3eac33ba98b8dc1668052db792677014dc3846fc7bfedbb695c7e9a",
+				"dweb:/ipfs/QmTgBSKLTvfxxhmvzFHDcH5UZaLBQAwRaBffoAnjmgs6BV"
+			]
+		}
+	},
+	"version": 1
+}
