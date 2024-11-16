@@ -8,22 +8,7 @@
 			{
 				"constant": true,
 				"inputs": [],
-				"name": "getChoice",
-				"outputs": [
-					{
-						"internalType": "enum test.FreshJuiceSize",
-						"name": "",
-						"type": "uint8"
-					}
-				],
-				"payable": false,
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"constant": true,
-				"inputs": [],
-				"name": "getDefaultChoice",
+				"name": "get",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -32,13 +17,19 @@
 					}
 				],
 				"payable": false,
-				"stateMutability": "pure",
+				"stateMutability": "view",
 				"type": "function"
 			},
 			{
 				"constant": false,
-				"inputs": [],
-				"name": "setLarge",
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					}
+				],
+				"name": "set",
 				"outputs": [],
 				"payable": false,
 				"stateMutability": "nonpayable",
@@ -54,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Code Practice(16-Nov-024)/code4.sol": "test"
+			"Code Practice(16-Nov-024)/code1.sol": "SimpleStorage"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -65,11 +56,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"Code Practice(16-Nov-024)/code4.sol": {
-			"keccak256": "0xc85c2368ed057fa41c4207ea527af7ce2bd0b7454b3b434d88ae96e029fba88a",
+		"Code Practice(16-Nov-024)/code1.sol": {
+			"keccak256": "0x323b19ac59f521693dd272feb43b1a54e0c12848258bbc2520831f2d94b59821",
 			"urls": [
-				"bzz-raw://e1f97f518706d65ec49fad75a10b1f2bf85fcc6e9d6c036e816aa4934bcb29bc",
-				"dweb:/ipfs/QmRhK9RzbFLHeiGPW8kMBFHqA2Q4MieoXtLfC2wV6EGQBp"
+				"bzz-raw://b38de96f8764b8143003f5937ca4b7f8fe08486dca764bee4efc4ca07db1f52a",
+				"dweb:/ipfs/QmRiTjxPKYWoZAnRukVJdWReJJBuemrKvAuR26bPB767fk"
 			]
 		}
 	},

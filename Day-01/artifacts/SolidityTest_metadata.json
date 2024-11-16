@@ -36,7 +36,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day1/code3.sol": "SolidityTest"
+			"Day/code3.sol": "SolidityTest"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -47,7 +47,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day1/code3.sol": {
+		"Day/code3.sol": {
 			"keccak256": "0xa7138521bc1cce9dcc71c27c108830599ca9059cd677302c54150ea9669c988d",
 			"urls": [
 				"bzz-raw://bd99f5d0f4bbbd4ce0881c48f2cd3241f1e165b89f21f22634ff5159b9070c20",
