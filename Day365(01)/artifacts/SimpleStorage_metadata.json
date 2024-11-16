@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Code Practice(16-Nov-024)/code1.sol": "SimpleStorage"
+			"Day365(01)/code1.sol": "SimpleStorage"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -56,7 +56,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"Code Practice(16-Nov-024)/code1.sol": {
+		"Day365(01)/code1.sol": {
 			"keccak256": "0x323b19ac59f521693dd272feb43b1a54e0c12848258bbc2520831f2d94b59821",
 			"urls": [
 				"bzz-raw://b38de96f8764b8143003f5937ca4b7f8fe08486dca764bee4efc4ca07db1f52a",

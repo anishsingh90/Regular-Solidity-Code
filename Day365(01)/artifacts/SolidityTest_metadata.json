@@ -17,9 +17,9 @@
 				"name": "getResult",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
 				"payable": false,
@@ -36,7 +36,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day365(01)/code3.sol": "SolidityTest"
+			"Day365(01)/code2.sol": "SolidityTest"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -47,11 +47,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day365(01)/code3.sol": {
-			"keccak256": "0x71a015ead47195e23964666631d011b8dcb2bdff81e5673216ce063a8cd13663",
+		"Day365(01)/code2.sol": {
+			"keccak256": "0x994903b69864a4a8692903cf2b63f1b9921012f435b2877360f42f72f20a20a3",
 			"urls": [
-				"bzz-raw://5e7fb2937cb678c40b0ea9ae5b86f6a779b0c83c73b695954afa61d8f87854ad",
-				"dweb:/ipfs/QmWyfkz86cpehwpr2hsyA48BE9PNYQXoiqR2Yx7kYNwppE"
+				"bzz-raw://fdb5f1f7c3eac33ba98b8dc1668052db792677014dc3846fc7bfedbb695c7e9a",
+				"dweb:/ipfs/QmTgBSKLTvfxxhmvzFHDcH5UZaLBQAwRaBffoAnjmgs6BV"
 			]
 		}
 	},
