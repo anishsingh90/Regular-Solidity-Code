@@ -31,6 +31,6 @@ contract SolidityTest {
          bstr[k--] = byte(uint8(48 + _i % 10));
          _i /= 10;
       }
-      return string(bstr);
+      return string(bstr);  
    }
 }
