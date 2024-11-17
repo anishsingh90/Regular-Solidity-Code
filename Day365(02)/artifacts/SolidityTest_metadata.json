@@ -1,18 +1,16 @@
 {
 	"compiler": {
-		"version": "0.5.17+commit.d19bba13"
+		"version": "0.8.26+commit.8a97fa7a"
 	},
 	"language": "Solidity",
 	"output": {
 		"abi": [
 			{
 				"inputs": [],
-				"payable": false,
 				"stateMutability": "nonpayable",
 				"type": "constructor"
 			},
 			{
-				"constant": true,
 				"inputs": [],
 				"name": "a",
 				"outputs": [
@@ -22,12 +20,10 @@
 						"type": "uint256"
 					}
 				],
-				"payable": false,
 				"stateMutability": "view",
 				"type": "function"
 			},
 			{
-				"constant": true,
 				"inputs": [],
 				"name": "b",
 				"outputs": [
@@ -37,12 +33,10 @@
 						"type": "uint256"
 					}
 				],
-				"payable": false,
 				"stateMutability": "view",
 				"type": "function"
 			},
 			{
-				"constant": true,
 				"inputs": [],
 				"name": "sum",
 				"outputs": [
@@ -52,24 +46,30 @@
 						"type": "uint256"
 					}
 				],
-				"payable": false,
 				"stateMutability": "view",
 				"type": "function"
 			}
 		],
 		"devdoc": {
-			"methods": {}
+			"kind": "dev",
+			"methods": {},
+			"version": 1
 		},
 		"userdoc": {
-			"methods": {}
+			"kind": "user",
+			"methods": {},
+			"version": 1
 		}
 	},
 	"settings": {
 		"compilationTarget": {
 			"Day365(02)/code1.sol": "SolidityTest"
 		},
-		"evmVersion": "istanbul",
+		"evmVersion": "cancun",
 		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
 		"optimizer": {
 			"enabled": false,
 			"runs": 200
@@ -79,6 +79,7 @@
 	"sources": {
 		"Day365(02)/code1.sol": {
 			"keccak256": "0x5c58c1d493a01322bb7d2369cf97e58580a0a618dc8e42298f028a90d4398be4",
+			"license": "MIT",
 			"urls": [
 				"bzz-raw://bc3e973ed21b2a28444a338cd5abf9e7f11d4fccec18532d37e803ae5f3de0af",
 				"dweb:/ipfs/QmfR5qGnGzmrdeZ9NjJ7xvu7r4aJBinrBxdqan9DCvhthk"

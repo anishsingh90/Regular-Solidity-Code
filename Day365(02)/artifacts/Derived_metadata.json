@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_info",
+						"type": "uint256"
+					}
+				],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day365(02)/base_constructor.sol": "Derived"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day365(02)/base_constructor.sol": {
+			"keccak256": "0x4909eb79c0e51b62243e46f8a8a56722eec5d631c93d3eee5200956bf79daf04",
+			"urls": [
+				"bzz-raw://7d0c8fa42acfef21224af4782a99e1389ddbaf3e92cdd7244d9dd49a51aa177e",
+				"dweb:/ipfs/QmQRQPRsbWmnXw5ZoC6DYRywJTDw1v2DYYY9HtS4QG4Ub1"
+			]
+		}
+	},
+	"version": 1
+}
