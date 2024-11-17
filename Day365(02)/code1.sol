@@ -9,7 +9,7 @@ contract SolidityTest{
 
     constructor() public  {
         a = 3;
-        b = 5;
+        b = 9;
         sum = a + b;
     }
 }

@@ -78,11 +78,11 @@
 	},
 	"sources": {
 		"Day365(02)/code1.sol": {
-			"keccak256": "0x5c58c1d493a01322bb7d2369cf97e58580a0a618dc8e42298f028a90d4398be4",
+			"keccak256": "0x70ad1b2356c0a3c1976117ee084984ea9b05c6b79fc55d8fe27cd57d21398b34",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://bc3e973ed21b2a28444a338cd5abf9e7f11d4fccec18532d37e803ae5f3de0af",
-				"dweb:/ipfs/QmfR5qGnGzmrdeZ9NjJ7xvu7r4aJBinrBxdqan9DCvhthk"
+				"bzz-raw://fff2f786a4e5d54bb5718c08e09de210679b8bbeee4855b8d780c6f8b27850dc",
+				"dweb:/ipfs/QmX8VDWsjRS9wFs6jCeiQaMwVHka6TNVseyrMWAQ3mgS7g"
 			]
 		}
 	},
