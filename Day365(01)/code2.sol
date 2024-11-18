@@ -6,7 +6,7 @@ contract SolidityTest{
 
     }
     function getResult() public view returns(uint256){
-        uint a = 1;
+        uint a = 98;
         uint b = 2;
         uint result = a + b;
     }
