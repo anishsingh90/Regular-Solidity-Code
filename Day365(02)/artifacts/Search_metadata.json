@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day365(02)/library.sol": "Search"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day365(02)/library.sol": {
+			"keccak256": "0x22e604766a9fba1e8e091733e08b1978fac8f82a6de117de03db71b3cbb4a06e",
+			"urls": [
+				"bzz-raw://a4539ee8ec58c64acbe337eb80cc3c8d0980c06016b827f42e69b0e34d70cdaa",
+				"dweb:/ipfs/Qme1jMmGcuCsh3qZU2vgreJc88jA1y7abp69oX9LMD1YNB"
+			]
+		}
+	},
+	"version": 1
+}
