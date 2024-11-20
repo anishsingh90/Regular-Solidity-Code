@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day365(03)/code1.sol": "LedgerBalance"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day365(03)/code1.sol": {
+			"keccak256": "0xd7dcbc20fa2b50a3f59f4897b884e21d6a1e58bdae65cb780e59bd2544915d23",
+			"urls": [
+				"bzz-raw://1f2147dd0a415252c83d9aa3cd47842b7ba8e629e1bf88abb59898694c34bac9",
+				"dweb:/ipfs/QmRoQLHogrWD2c62Lwv28xe1tbYK5z2MtFhJP9qSHrbPpr"
+			]
+		}
+	},
+	"version": 1
+}
