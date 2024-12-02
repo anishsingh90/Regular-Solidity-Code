@@ -8,7 +8,7 @@ contract SolidityTest{
 
     constructor() public {
         name = "Anish Singh";
-        age = 20;
+        age = 20; 
     }
 
     function getName() public view returns(string memory){
