@@ -36,7 +36,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-01/code2.sol": "SolidityTest"
+			"Day-01/code3.sol": "SolidityTest"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -47,11 +47,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-01/code2.sol": {
-			"keccak256": "0x329f120b8d27546cb3daef0d2fad071e9b3639e09d136828ae0711b28c7d4b9e",
+		"Day-01/code3.sol": {
+			"keccak256": "0xf24a2ba2776c96013c8eebe20a06cad17067ce81108ac6ef0bbd9a5e80c445d4",
 			"urls": [
-				"bzz-raw://0e3b4429adf66a0124ea5e039adc2b3261302855e16f6db509596fd0cadf1e5a",
-				"dweb:/ipfs/QmXgtLej8vaB9MbieH6F1d5Aq7xbkfijeXgBn6hcgk9RZh"
+				"bzz-raw://3c49c121424b2670ca54f77f7ac016b0f15fba7ef44e4820f03353b3ae16f25c",
+				"dweb:/ipfs/QmbZhgsUTWuwKc7sqDqAXB1M4wD4rYZPnj49wL3XE5Gqsb"
 			]
 		}
 	},
