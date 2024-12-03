@@ -6,15 +6,9 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"payable": false,
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
 				"constant": true,
 				"inputs": [],
-				"name": "getResult",
+				"name": "Result",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -36,7 +30,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-01/code1.sol": "SolidityTest"
+			"Day-01/code3.sol": "SolidityTest"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -47,11 +41,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-01/code1.sol": {
-			"keccak256": "0x63f3f0170d44adc121c63310fbddc1b6e71005346a28393be68555f7ad3aa75a",
+		"Day-01/code3.sol": {
+			"keccak256": "0x491615407e487cddcfc6d66a066369063e532f13f880aa15f7fc32f395c370de",
 			"urls": [
-				"bzz-raw://918b50425e69d60b47620c7d3b52f393c8f30f4a79534bcf38840606ba4f30ae",
-				"dweb:/ipfs/QmV4MiW9Rmc1tC1hhcfiboZX7zCFeRWuv6PoE7HCs2kiAz"
+				"bzz-raw://dd58b18415b42d870323b9f71c932d7f29fb28777a1d70812a6714c0f15804c7",
+				"dweb:/ipfs/QmWra4mkDUJQVRYBPpnvXc3xxtUGVQ8VkEb2ta85NPa2ad"
 			]
 		}
 	},
