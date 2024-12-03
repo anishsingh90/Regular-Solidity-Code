@@ -1,18 +1,20 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.5.17+commit.d19bba13"
 	},
 	"language": "Solidity",
 	"output": {
 		"abi": [
 			{
 				"inputs": [],
+				"payable": false,
 				"stateMutability": "nonpayable",
 				"type": "constructor"
 			},
 			{
+				"constant": true,
 				"inputs": [],
-				"name": "getAge",
+				"name": "getResult",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -20,43 +22,24 @@
 						"type": "uint256"
 					}
 				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "getName",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
+				"payable": false,
 				"stateMutability": "view",
 				"type": "function"
 			}
 		],
 		"devdoc": {
-			"kind": "dev",
-			"methods": {},
-			"version": 1
+			"methods": {}
 		},
 		"userdoc": {
-			"kind": "user",
-			"methods": {},
-			"version": 1
+			"methods": {}
 		}
 	},
 	"settings": {
 		"compilationTarget": {
 			"Day-01/code1.sol": "SolidityTest"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "istanbul",
 		"libraries": {},
-		"metadata": {
-			"bytecodeHash": "ipfs"
-		},
 		"optimizer": {
 			"enabled": false,
 			"runs": 200
@@ -65,11 +48,10 @@
 	},
 	"sources": {
 		"Day-01/code1.sol": {
-			"keccak256": "0x31fffa3afdcb1bd2dac923fc51fc00525711ffd4dd53850d12b6fa33e324a7a0",
-			"license": "MIT",
+			"keccak256": "0x7d77dc22bc43212f3ea3df506424be0d907381effa0b68beccedff1e9a28836f",
 			"urls": [
-				"bzz-raw://82d0866c24beedefd3f370aadf67fd43018852b5230b629714c98dae69d172ad",
-				"dweb:/ipfs/QmeRAdqh1b2gna9gQW6dfJqVbeoJN99cQvhh3qUXFgFfxs"
+				"bzz-raw://c60b78af36bb2ac7ef8ba3299852b524bebd32c736dad4b90d968c8815b06ecd",
+				"dweb:/ipfs/Qme1A4dmySHRHMjwzfaZMtod7XyzXKtfho6p69dbuPan6s"
 			]
 		}
 	},
