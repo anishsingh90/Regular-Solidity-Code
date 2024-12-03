@@ -12,7 +12,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "getAge",
+				"name": "age",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -25,15 +25,22 @@
 			},
 			{
 				"inputs": [],
-				"name": "getName",
+				"name": "num",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setAge",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -50,7 +57,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-01/code1.sol": "SolidityTest"
+			"Day-01/code1.sol": "StateVariable"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -65,11 +72,11 @@
 	},
 	"sources": {
 		"Day-01/code1.sol": {
-			"keccak256": "0x31fffa3afdcb1bd2dac923fc51fc00525711ffd4dd53850d12b6fa33e324a7a0",
+			"keccak256": "0x32aed9add7df1d6f5a942dcb3cc1f82e8d67279000b6609b9e524981fae71d44",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://82d0866c24beedefd3f370aadf67fd43018852b5230b629714c98dae69d172ad",
-				"dweb:/ipfs/QmeRAdqh1b2gna9gQW6dfJqVbeoJN99cQvhh3qUXFgFfxs"
+				"bzz-raw://d4279399a7ece33dfdd7f166196d4dd52c7347e97d75d8fb02c68f82fe5e3734",
+				"dweb:/ipfs/QmbgouotWKL2wS97eXh914r4wCDy5NjqH3yg3d4ikijvvJ"
 			]
 		}
 	},
