@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "finalValue",
+						"type": "string"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-05/code3.sol": "HelloWorld"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-05/code3.sol": {
+			"keccak256": "0xe2dbcc3867ba0cfc8072c7c2876a09923608a6be85156e7a0924ebd76b116b20",
+			"urls": [
+				"bzz-raw://7854d3e90663215f1c4121f6a569383607476a55b276243bb81c01063cc7ce1b",
+				"dweb:/ipfs/QmNbqq2hZjy56cxMWNRdPJ3h9kbMSLZUci3ccbGKMnQ52a"
+			]
+		}
+	},
+	"version": 1
+}
