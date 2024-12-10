@@ -4,73 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "Enum",
-				"outputs": [
-					{
-						"internalType": "enum SolidityTest.my_enum",
-						"name": "",
-						"type": "uint8"
-					}
-				],
-				"stateMutability": "pure",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "b",
-				"outputs": [
-					{
-						"internalType": "bytes1",
-						"name": "",
-						"type": "bytes1"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "boolean",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "int_var",
-				"outputs": [
-					{
-						"internalType": "int32",
-						"name": "",
-						"type": "int32"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "str",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -84,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-06/code2.sol": "SolidityTest"
+			"Day-06/code3.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -98,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-06/code2.sol": {
-			"keccak256": "0x0fddeca3c81861f337ddc98ca2aa67ed3ea84956a11466d1373d6b4a6a9a0d7c",
+		"Day-06/code3.sol": {
+			"keccak256": "0xe41cfdfff4ed9139d2c28e0e2526224897a94fa8f61d8261079bef728c548928",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4ae32c3c82ea4c64056b69a2505c06c3beaa72f41943b64336c6c5247b2add3f",
-				"dweb:/ipfs/QmPJKxMM5B7S1xN6GPmzJqT4aAsno2o3tYzqq1uBMkDrkp"
+				"bzz-raw://5f8f8f3f8efee7cfa3034153fb4391383fe555c3c8dcc7fefcbc8d8235ef2626",
+				"dweb:/ipfs/QmdMBsxBGVEG4PRTtcbHG5giyThTjDsLFZcaK4JZLGshxD"
 			]
 		}
 	},
