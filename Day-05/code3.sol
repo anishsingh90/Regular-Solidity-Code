@@ -8,6 +8,7 @@ contract HelloWord{
         name = userInput;
     }
 
+
     function get() public view returns(string memory){
         return name;
     }
