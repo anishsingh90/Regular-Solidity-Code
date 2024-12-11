@@ -4,7 +4,60 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"name": "Name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "Number",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "b",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "booleans",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-06/code3.sol": "SolidityTest"
+			"Day-06/code1.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +85,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-06/code3.sol": {
-			"keccak256": "0xe41cfdfff4ed9139d2c28e0e2526224897a94fa8f61d8261079bef728c548928",
+		"Day-06/code1.sol": {
+			"keccak256": "0xac5fd9d3472d11ed20e3b3805db0c4539be000c826c4019fb1755b00174b7ff0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5f8f8f3f8efee7cfa3034153fb4391383fe555c3c8dcc7fefcbc8d8235ef2626",
-				"dweb:/ipfs/QmdMBsxBGVEG4PRTtcbHG5giyThTjDsLFZcaK4JZLGshxD"
+				"bzz-raw://df77e5fc33c24c1b167aee3bbe89cd50eb3df2d5623876c1d076baf6b5b82fad",
+				"dweb:/ipfs/QmcdPUuExKrKJDk2CpYPgjgCjNzErRbKAqA9H58gouuJDt"
 			]
 		}
 	},
