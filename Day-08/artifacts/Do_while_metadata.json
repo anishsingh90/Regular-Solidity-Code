@@ -7,7 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "Loop",
+				"name": "get",
 				"outputs": [
 					{
 						"internalType": "uint256[]",
@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-08/code2.sol": "SolidityTest"
+			"Day-08/code2.sol": "Do_while"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"Day-08/code2.sol": {
-			"keccak256": "0xff60e6b679ae11113f824451650ff9e5f840a6c0ab04d362108210a1ebc8cb8d",
+			"keccak256": "0x75666b95042125f3f28f83ec4859405a307ef4f872e2968fd5ae07e2ae161c31",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://9397fe4bf44226391477ea1ab2f9f09b7a69f7ae22d835abe80791efef71f929",
-				"dweb:/ipfs/QmUUF9kArL5atmdHyp2dVRzFdx3isQH2zJ97Zkfmm97VY3"
+				"bzz-raw://f1c6f5733b715cc74b201d792712569166aa2ad81cfa0f2e936ff5dec993d598",
+				"dweb:/ipfs/QmSUZaHPV33qn32ZAs6DwVLgP6XAhQCLhRUWtcTKkn86HP"
 			]
 		}
 	},
