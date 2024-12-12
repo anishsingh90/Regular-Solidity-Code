@@ -3,7 +3,7 @@
 pragma solidity >=0.4.0 <0.9.0;
 
 contract Do_while{
-    uint[] data;
+    uint[] public data;
 
     uint8 j = 0;
 

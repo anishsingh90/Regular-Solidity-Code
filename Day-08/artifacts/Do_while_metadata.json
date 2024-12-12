@@ -6,6 +6,25 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "data",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [],
 				"name": "get",
 				"outputs": [
@@ -47,11 +66,11 @@
 	},
 	"sources": {
 		"Day-08/code2.sol": {
-			"keccak256": "0x75666b95042125f3f28f83ec4859405a307ef4f872e2968fd5ae07e2ae161c31",
+			"keccak256": "0xb08bace45608d9d496dba2bbcfdbb78c5ab9c265e0596062e4cf3549c7a81e24",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f1c6f5733b715cc74b201d792712569166aa2ad81cfa0f2e936ff5dec993d598",
-				"dweb:/ipfs/QmSUZaHPV33qn32ZAs6DwVLgP6XAhQCLhRUWtcTKkn86HP"
+				"bzz-raw://ef8182c581558bcdeffc012b269be11dd1ee72f82820ea4fa93892a11f559150",
+				"dweb:/ipfs/QmZxiBGiXtLmvp2cwWPESpNYwHgaLxFeecCZpnY8JmbK9b"
 			]
 		}
 	},

@@ -4,7 +4,7 @@ pragma solidity >=0.4.0 <0.9.0;
 
 contract ElseContions{
     uint i = 10;
-    bool even;
+    bool public even;
 
     function get() public returns(bool){
         if(i % 2 == 0){

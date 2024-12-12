@@ -3,7 +3,7 @@
 pragma solidity >=0.5.0 <0.9.0;
 
 contract Loop{
-    uint[] data;
+    uint[] public data;
 
     function get() public returns(uint[] memory){
         for(uint i=0; i<5; i++){
