@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-08/code7.sol": "Continue_stmnt"
+			"Day-08/code8.sol": "Continue_stmnt"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-08/code7.sol": {
-			"keccak256": "0x3e8259fdeeca715e6bfab1b764404bd351fab138ee2a8eb883c742e1af8d4ff0",
+		"Day-08/code8.sol": {
+			"keccak256": "0x087f1e1bcdb94efca8cf07b4d575289df72de1f1ca037382b93a68c21977fb31",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://b663a4fb5cadbbba602a09a8a65a8c7b1b9df14061ddb13115e0ec0d24cbc51e",
-				"dweb:/ipfs/QmQsHBoU9vbyDq7NVi7PqBcoYXVa6UzPzCYGLvbCyCScTD"
+				"bzz-raw://76244150fe774cc2b1316e0251e8b161ab393726c5bd2c2d903a2471be438d75",
+				"dweb:/ipfs/Qmd6b46juWGeMuKLdcBXysCDvzD4uvjNsypXZKWESqVniT"
 			]
 		}
 	},
