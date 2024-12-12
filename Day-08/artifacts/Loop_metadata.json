@@ -17,19 +17,6 @@
 				],
 				"stateMutability": "nonpayable",
 				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "j",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -45,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-08/code1.sol": "Loop"
+			"Day-08/code3.sol": "Loop"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-08/code1.sol": {
-			"keccak256": "0xe7f64f862bbab94f04efa42f195bb51b9f77fa7e44380dc7a4e36b9907c6b9af",
+		"Day-08/code3.sol": {
+			"keccak256": "0x1a5dafc93fe9ec39164d458bed3a707438fbfa70855089aaa1e417b51dac5216",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://983d459e94b3dec514080885eea833b9eb7a13af83e47844e24ed5159cbe679e",
-				"dweb:/ipfs/QmcRj5F4kRUYfwZ5UUEaWhwPGzP9wtin9EKEK5BKKXTjrY"
+				"bzz-raw://d5bb077202be22438133dde775fe2e908f59a7a85cc55405120a4445527e4f69",
+				"dweb:/ipfs/QmeoUni1gxq7i7Rgbhag59GtozWpZW6VhL7tgBXYiXso8k"
 			]
 		}
 	},
