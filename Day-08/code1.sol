@@ -6,7 +6,7 @@ contract SolidityTest{
     uint[] public data;
 
     uint j = 0;
-
+ 
     function loop() public returns(uint[] memory){
         while(j<5){
             j++;
