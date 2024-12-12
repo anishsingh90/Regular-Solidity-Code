@@ -15,7 +15,7 @@
 						"type": "bool"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-08/code4.sol": "SolidityTest"
+			"Day-08/code4.sol": "Condition"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -47,11 +47,11 @@
 	},
 	"sources": {
 		"Day-08/code4.sol": {
-			"keccak256": "0x9ac90584d3d2e77a7cbfb68a3bb55211691886382749ecc455a371b6d3407c93",
+			"keccak256": "0xaec5be8629f705a93bdfd256cc55850b26f5734a7598d88833ef48e391a21bd5",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://50cec6a36a66eb6efb1f60e7f4e41fb605ac21b8268117b785f3cf8c1e567e1f",
-				"dweb:/ipfs/QmSifh37V2JJ3u2gJQng27YdPybMfWtPeD586pVtkVqKXG"
+				"bzz-raw://3308bfacc1160d496d9307b2701e8d92dd0eca160d03438a9f253092640e18c9",
+				"dweb:/ipfs/QmR2BPpjzibQmWB9ibxE8Vdna9NBKdaWhd8rzJLjhHNCe7"
 			]
 		}
 	},
