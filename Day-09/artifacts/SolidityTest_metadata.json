@@ -7,12 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "get",
+				"name": "getString",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -21,6 +16,26 @@
 					}
 				],
 				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setText",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "message",
+						"type": "string"
+					}
+				],
+				"name": "setTextByPassingValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -37,7 +52,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-09/code1.sol": "SolidityTest"
+			"Day-09/code2.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -51,12 +66,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-09/code1.sol": {
-			"keccak256": "0x70afd851f5c000caaee02d9fd80b8bfa551b1933d915504a350bba10e756f06d",
+		"Day-09/code2.sol": {
+			"keccak256": "0xbb5649e0dac6764e36f95e91df874d0e2ac97f7d24715d61c58aeff63c204907",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2f2dd76f76a53ec18f8c0aaa1b87062e27e5ab1047d9a9f5d472f63708dc9408",
-				"dweb:/ipfs/QmbFqUNvZXwdK7EbphZX7r1tt3Mmit4iq4fuKAqQanVKQF"
+				"bzz-raw://478beabe8d383e585bb069ee27b4331ceb871b5748a3ad6e2d4a791a39dece92",
+				"dweb:/ipfs/QmaxsND8ySS7cCw6ktNkPA6XE2kqc5Aqe3Fdwy3DAQeMm2"
 			]
 		}
 	},
