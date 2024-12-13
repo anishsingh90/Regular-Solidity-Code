@@ -3,7 +3,8 @@
 pragma solidity >=0.4.0 <0.9.0;
 
 contract SolidityTest{
-    function get(string memory name) public view returns(uint){
-    return bytes(name).length;
-}
+    function getLength(string memory s) public view returns(uint){
+        bytes memory b = bytes(s);
+        return b.length;
+    }
 }

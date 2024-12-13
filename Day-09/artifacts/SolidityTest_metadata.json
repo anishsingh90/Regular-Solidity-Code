@@ -9,11 +9,11 @@
 				"inputs": [
 					{
 						"internalType": "string",
-						"name": "name",
+						"name": "s",
 						"type": "string"
 					}
 				],
-				"name": "get",
+				"name": "getLength",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -53,11 +53,11 @@
 	},
 	"sources": {
 		"Day-09/code3.sol": {
-			"keccak256": "0x14a5ba3f24bd66435d057e743ed2b7266750d6fd2288988fe2f6a219a3964683",
+			"keccak256": "0xce3241d40eb3e73177f8365633b9f1ce4e0507d7245b875cf9032bc2d44db27c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1df70f168fdb2082e1cdb21edda10ab8ca8edca6239d96e53789d09613d00ea4",
-				"dweb:/ipfs/QmXSnLWP1Nfnfx5fB91zdveWXCgTymCKuvkzXqCabrPEv7"
+				"bzz-raw://3ca04fed1fca7aebca6463a5966c4fdf3eb05d64028e94770a9c49b8671d25de",
+				"dweb:/ipfs/QmaeP6kTQuaaevJAtcz3kgtkTM1ZtWrwJUpGjnN65raVjp"
 			]
 		}
 	},
