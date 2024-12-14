@@ -6,5 +6,5 @@ contract SolidityTest{
     function getLength(string memory s) public view returns(uint){
         bytes memory b = bytes(s);
         return b.length;
-    }
+    } 
 }
