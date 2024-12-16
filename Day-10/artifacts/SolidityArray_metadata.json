@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-10/code1.sol": "SolidityArray"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-10/code1.sol": {
+			"keccak256": "0x543bf1c497231a037b977ba5858ada821084d1ff3dc6073b7423f030c6036039",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cba1a64fec2bfeb1b9e7363139d0f163f2d368efefcd8e18facf6e67d10ac28a",
+				"dweb:/ipfs/QmPxZ3PQv7tS6sjdKv4yMRWdivfRNa5snuATJB2GgSJip8"
+			]
+		}
+	},
+	"version": 1
+}
