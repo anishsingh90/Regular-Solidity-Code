@@ -6,5 +6,6 @@ contract SolidityTest{
     function getResult(uint x) public pure returns(uint){
         uint doubleValue = x * 2;
         return doubleValue;
+
     }
 }
