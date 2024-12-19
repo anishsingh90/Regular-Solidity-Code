@@ -7,23 +7,10 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "get_Inq",
-				"outputs": [
-					{
-						"internalType": "enum SolidityTest.Student_Info",
-						"name": "",
-						"type": "uint8"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "get_value",
 				"outputs": [
 					{
-						"internalType": "enum SolidityTest.Student_Info",
+						"internalType": "enum SolidityEnum.week_days",
 						"name": "",
 						"type": "uint8"
 					}
@@ -52,7 +39,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-14/code1.sol": "SolidityTest"
+			"Day-14/code1.sol": "SolidityEnum"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -67,11 +54,11 @@
 	},
 	"sources": {
 		"Day-14/code1.sol": {
-			"keccak256": "0xdf2965431ce4dabe3b80fe2e62c69dbbf6c0f9d7666223701bb98c1991b3e40d",
+			"keccak256": "0xc06785128b517212574ad7e4b4c8090e1148bbcba22a18af2234de36782fe239",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://acbf908ba6075318414453fc4b4f54e54e2761a60f379a0b2b9dd8f60800e92e",
-				"dweb:/ipfs/QmNtzUEheoKh2fcJEhHxrJasxsiZFnHFapdXa7iHaxP1wq"
+				"bzz-raw://f9cac9ec19ec5a6b0ae2e59d97b198df24fbafd4e7875fd882691d8598861f8a",
+				"dweb:/ipfs/QmTX2neErEHcszDdroDQMAWFKcJHg5xyxSuK12o6M5A9KC"
 			]
 		}
 	},
