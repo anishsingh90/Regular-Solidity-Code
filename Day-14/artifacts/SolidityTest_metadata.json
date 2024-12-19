@@ -7,12 +7,27 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "get_Inq",
+				"name": "get_Book1",
 				"outputs": [
 					{
-						"internalType": "enum SolidityTest.Student_Info",
+						"internalType": "string",
 						"name": "",
-						"type": "uint8"
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
 					}
 				],
 				"stateMutability": "view",
@@ -20,12 +35,27 @@
 			},
 			{
 				"inputs": [],
-				"name": "get_value",
+				"name": "get_Book2",
 				"outputs": [
 					{
-						"internalType": "enum SolidityTest.Student_Info",
+						"internalType": "string",
 						"name": "",
-						"type": "uint8"
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
 					}
 				],
 				"stateMutability": "view",
@@ -33,7 +63,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "set_value",
+				"name": "set_Book1",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -52,7 +82,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-14/code1.sol": "SolidityTest"
+			"Day-14/code2.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -66,12 +96,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-14/code1.sol": {
-			"keccak256": "0xdf2965431ce4dabe3b80fe2e62c69dbbf6c0f9d7666223701bb98c1991b3e40d",
+		"Day-14/code2.sol": {
+			"keccak256": "0x68555eea468229e8b4727bfa444236f8812d249ada34ab08c64487607ea1ad16",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://acbf908ba6075318414453fc4b4f54e54e2761a60f379a0b2b9dd8f60800e92e",
-				"dweb:/ipfs/QmNtzUEheoKh2fcJEhHxrJasxsiZFnHFapdXa7iHaxP1wq"
+				"bzz-raw://8c27d7321a7e94a454e745e3ef632d076ff7fb3bc2bada90954f98e430185e96",
+				"dweb:/ipfs/QmZK8UtXm6jaezFmWtkRt6VhnbpK4W7GkMvcTV3JpH9wbV"
 			]
 		}
 	},
