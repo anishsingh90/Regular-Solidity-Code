@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "student_result",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-14/code1.sol": "SolidityMapping"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-14/code1.sol": {
+			"keccak256": "0x70b8bb512b624c9f69da89a8a4fd4d6021f1f78afeddaa760cc18eec6639639e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://772b060700d6295c54ec4a9cc8c88c0fe5bbe36fd0b4393206eaa60ecbb421ba",
+				"dweb:/ipfs/QmY4xC4Fxnum3f8ZmBfSq59tYAy7A5ujAJm1rucor5Zasw"
+			]
+		}
+	},
+	"version": 1
+}
