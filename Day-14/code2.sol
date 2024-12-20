@@ -29,4 +29,4 @@ contract SolidityTest{
     function get_Book2() public view returns(string memory, string memory, uint, bool){
         return(book2.name, book2.writter, book2.id, book2.present);
     }
-}
+} 
