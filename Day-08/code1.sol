@@ -12,6 +12,6 @@ contract SolidityTest{
             j++;
             data.push(j);
         }
-        return data;
+        return data; 
     }
 }
