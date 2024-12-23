@@ -12,7 +12,6 @@ contract SolidityTest{
         uint a = 1; //local variable
         uint b = 4;
         uint result = a + b;
-
         return integerToString(result);
     }
 
