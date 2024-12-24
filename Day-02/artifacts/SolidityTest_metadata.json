@@ -57,10 +57,10 @@
 	},
 	"sources": {
 		"Day-02/code1.sol": {
-			"keccak256": "0xa158b36dda2d0401a634bced29b9ff184e0c7b317403036d21e2b007eb0b9ab1",
+			"keccak256": "0x1965e1dc187070fc0f3d56b77506412ce0fb5c246724088715de873ef67566d9",
 			"urls": [
-				"bzz-raw://954c9bd05296aa63bc46cf850a00268accbe680c3a1f54dc5fa3361527ecfcc9",
-				"dweb:/ipfs/QmWtu6HkNqM84dGxUEpFhQPb2UrKyhJcopWo9MbfL2XNx5"
+				"bzz-raw://9359b8881b412cff41ec2bd37494b502af7925895efcea4d114ce0a2bc61700d",
+				"dweb:/ipfs/Qme2tfSXn8YXtNceWZyVwfVmgpGMxfBQd2M5YTQPXvrEfH"
 			]
 		}
 	},
