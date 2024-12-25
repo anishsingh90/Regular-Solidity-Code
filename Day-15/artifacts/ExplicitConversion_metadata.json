@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "convert",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-15/code2.sol": "ExplicitConversion"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-15/code2.sol": {
+			"keccak256": "0x0847b93ed081e8b90a013d83666661a78ce2736fdf95e085b37ad157a8ab0744",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0620bad421fc946f0595abe4731b0150be5414075110d75bff767bb896b4a585",
+				"dweb:/ipfs/QmaZdHvXt348fCqxaoGTrjnwZuZn6Ttn6jSwAQ6KJed71y"
+			]
+		}
+	},
+	"version": 1
+}
