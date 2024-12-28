@@ -2,7 +2,7 @@
 pragma solidity >=0.4.22 <0.9.0; 
 /// @title A contract for demonstrate return statements
 /// @author Jitendra Kumar
-/// @notice For now, this contract just show how to return a value from the function
+/// @notice For now, this contract just show how to return a value  from the function
 contract Test {
 	// Defining a public pure function to
 	// demonstrate return statement
