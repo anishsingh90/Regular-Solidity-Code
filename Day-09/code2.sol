@@ -8,7 +8,6 @@ contract SolidityTest{
     function setText() public {
         text = "Anish";
     }
-
     function setTextByPassingValue(string memory message) public {
         text = message;
     }

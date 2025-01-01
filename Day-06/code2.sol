@@ -7,6 +7,7 @@ contract SolidityTest{
 
     int32 public int_var = 45;
 
+
     string public str = "Geeks For Geeks";
 
     bytes1 public b = "a";
