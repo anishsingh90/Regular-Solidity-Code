@@ -48,10 +48,10 @@
 	},
 	"sources": {
 		"Day-03/code2.sol": {
-			"keccak256": "0x2e4900709ea859bcac5628b3948467ff5ce836e3d02e54d645c89e9af25e9c2a",
+			"keccak256": "0x5db6459152a35f805bc27d839d57d8445b26f099db0c1ab7890b645e252e238b",
 			"urls": [
-				"bzz-raw://16ad79313ef68590c49645546e600afbf797956192ab6384f20fb676c262c3f7",
-				"dweb:/ipfs/QmeYW62g1AudYzC4wV7J6W43rW2PPewyQNhdVoMC7xAo7h"
+				"bzz-raw://a975b7780f3dcd62ff390c6121673667f655ef8091f5e50a7dbb5e9c58ecccca",
+				"dweb:/ipfs/QmZkCDKuWKybUY5qek1YbKwBajGNfDZYJGdSzErP2gaJ52"
 			]
 		}
 	},
