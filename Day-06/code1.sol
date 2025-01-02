@@ -8,6 +8,7 @@ contract SolidityTest{
     string public Name = "Anish Singh";
 
     uint public Number = 29;
+    
     bytes public b = "a";
 
 }
