@@ -12,7 +12,6 @@ contract Test{
         var2 = y;
         sum = var1 + var2;
     }
-
     function get() public view returns(uint){
         return sum;
     }
