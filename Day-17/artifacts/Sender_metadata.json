@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.28+commit.7893614a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "transferEther",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-17/code1.sol": "Sender"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-17/code1.sol": {
+			"keccak256": "0xcf0f329b208056d2f5f7f99f9dfb26380c14e67f5078d9cc98453beed78d699e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c1799c9eaf35ec85abeb2ba4d4cf472ebefa1aab72d4c873d6d91bdfde469d54",
+				"dweb:/ipfs/QmVVs8etCrxt5gHvYr4FEkueMuKyu7viqocJA4gYkS61YR"
+			]
+		}
+	},
+	"version": 1
+}
