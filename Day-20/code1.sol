@@ -16,6 +16,7 @@ contract A{
     }
 }
 
+
 contract B is A{
     function fun3() public pure override returns(string memory){
         return "I'm contract B";
