@@ -86,11 +86,11 @@
 	},
 	"sources": {
 		"Day-20/code2.sol": {
-			"keccak256": "0xd0ea61888a81da6f8acaff5324fd6d9a0de26927f9a7e0ff6e34315f35c8bea1",
+			"keccak256": "0x75e4ece9e9a6b4a2c733cd0fd0638983abc41cca107ee975d05bae3684979c6c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e677e9e9319fce61940a6dbefd9a2e8f31a5d4015313e3d5c663bce77c0ce55e",
-				"dweb:/ipfs/QmUHeSN1G7B63u9HANsLNtr21AsiXh3GJVtPeRUUoFQaze"
+				"bzz-raw://706108d1480ccfdf60b79a6f73617669e052f8d7c6eb4e10682363d7e2dfeeab",
+				"dweb:/ipfs/QmcnbfoEiiZ8TeS15p3LBeNtWAfwkYEvXmQfkSAj13QJVh"
 			]
 		}
 	},

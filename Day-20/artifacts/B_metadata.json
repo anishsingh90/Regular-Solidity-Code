@@ -71,7 +71,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-20/code2.sol": "B"
+			"Day-20/code1.sol": "B"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -85,12 +85,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-20/code2.sol": {
-			"keccak256": "0xd0ea61888a81da6f8acaff5324fd6d9a0de26927f9a7e0ff6e34315f35c8bea1",
+		"Day-20/code1.sol": {
+			"keccak256": "0x17b4079f0a47fe0f3440181688c3338a8b82a53d0fddc880e0798e0f3c79d3f1",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e677e9e9319fce61940a6dbefd9a2e8f31a5d4015313e3d5c663bce77c0ce55e",
-				"dweb:/ipfs/QmUHeSN1G7B63u9HANsLNtr21AsiXh3GJVtPeRUUoFQaze"
+				"bzz-raw://fed7fd3fe8248c9c8c8b712f74c19f2fbd32af141a002cb51a4fe9a24df30ed1",
+				"dweb:/ipfs/QmfMPAytayNK5jWPyqHpg2cxo9SH2gLEshoTBFGgxWBf33"
 			]
 		}
 	},
