@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "age",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-21/code1.sol": "Constructor"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-21/code1.sol": {
+			"keccak256": "0x6a3891829b58bc2f92c22e43f6baad7628ad2241b129992a052f6c7ad42de3fa",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://be90255292865358119a515bc97e70d0c1e74683f765fb28ad62c50d7a3477b5",
+				"dweb:/ipfs/QmNM1QP7ZvTq8VhmqTW49gFyrFiEmZ5amKLpgjwvH8ciEx"
+			]
+		}
+	},
+	"version": 1
+}
