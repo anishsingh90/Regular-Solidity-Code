@@ -37,7 +37,7 @@ contract D is B,A{
     } 
 }
 
-
+//Order of execution
 contract E is A,B{
     constructor(string memory _name, uint _age,string memory _add, uint _salary)A(_name, _age)B(_add, _salary){
 
