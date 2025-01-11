@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "setAge",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-23/code1.sol": "Techer"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-23/code1.sol": {
+			"keccak256": "0x947f226832f8d1ff6c859f82a0b8c3a13794f49d71fc5c5e6d0d858cb57290ce",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://61ece6edcf0e2e6437dfe0fb5b346b977cd0b82394e0a246e6c4cb6f2c7a12da",
+				"dweb:/ipfs/QmdMEBbcGy7jE47uohX1HHPowvaaC7mWviiEuGm6QbNhao"
+			]
+		}
+	},
+	"version": 1
+}
