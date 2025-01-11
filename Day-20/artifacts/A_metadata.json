@@ -7,7 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "funA",
+				"name": "fun1",
 				"outputs": [
 					{
 						"internalType": "string",
@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-20/code4.sol": "A"
+			"Day-20/code5.sol": "A"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-20/code4.sol": {
-			"keccak256": "0xdc45b53d2361ce43ccd2ee2282ab023c801af2ac85098e84d7505de737dbc609",
+		"Day-20/code5.sol": {
+			"keccak256": "0x8a8d02fcbbe0124ba69895eb2b1ed424bf319a59789e1ef2cd8574e78cca2c34",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f08ffb5d7cc2a8ce0db671fbe668b0a9fc0bec8c17cfc4a0d80e6d2cac0d3c09",
-				"dweb:/ipfs/QmdY74BrtrZEQUCQdwaPTA9aWoCrESLDszPngcdUa32pT6"
+				"bzz-raw://d11a0e3d386fa16de8c3299c2e5dc12f81bb8c7864889c21495fa53108064116",
+				"dweb:/ipfs/QmdVXLECrRFqba99rkmi1EHnJpDVUU1XAmehGRPdZuXEjE"
 			]
 		}
 	},
