@@ -6,7 +6,23 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "_owner",
+						"type": "address"
+					}
+				],
 				"stateMutability": "nonpayable",
 				"type": "constructor"
 			},
@@ -18,6 +34,32 @@
 						"internalType": "uint256",
 						"name": "",
 						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
 					}
 				],
 				"stateMutability": "view",
@@ -37,7 +79,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-21/code1.sol": "Constructor"
+			"Day-21/code2.sol": "Constructor"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -51,12 +93,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-21/code1.sol": {
-			"keccak256": "0x6a3891829b58bc2f92c22e43f6baad7628ad2241b129992a052f6c7ad42de3fa",
+		"Day-21/code2.sol": {
+			"keccak256": "0x759299a8a3d8e6ed865493e58e35f3bd37b64a04cd9c051fb3ca2ffe7b8539a8",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://be90255292865358119a515bc97e70d0c1e74683f765fb28ad62c50d7a3477b5",
-				"dweb:/ipfs/QmNM1QP7ZvTq8VhmqTW49gFyrFiEmZ5amKLpgjwvH8ciEx"
+				"bzz-raw://f0f7f19a9e202f65ee3c9e40c7553cf534c0262abb0bd40912c0f1c8c6ef241f",
+				"dweb:/ipfs/Qmbb4q9wZQWB4GqfZt8H9t9h3A98xDrq5L4A1Rnsz7wiUw"
 			]
 		}
 	},
