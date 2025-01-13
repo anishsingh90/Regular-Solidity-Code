@@ -10,9 +10,9 @@
 				"name": "get",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "string",
 						"name": "",
-						"type": "uint256"
+						"type": "string"
 					}
 				],
 				"stateMutability": "view",
@@ -21,14 +21,9 @@
 			{
 				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "x",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "y",
-						"type": "uint256"
+						"internalType": "string",
+						"name": "finalvalue",
+						"type": "string"
 					}
 				],
 				"name": "set",
@@ -50,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-27/code1.sol": "Solidity"
+			"Day-27/code4.sol": "Solidity"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -64,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-27/code1.sol": {
-			"keccak256": "0x9be00578f56046cce9c1cae6d3fd2f956fa5c40b88efb851e95a1685b3cb0bf5",
+		"Day-27/code4.sol": {
+			"keccak256": "0x393eb13a4fb2ed5260e02b14b92814893d6046747ad31e369eb5a8a6675e47d3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://00894db6d03e7c9a350f6a64dc2c90db2768d311ab32b022620239f60a875b08",
-				"dweb:/ipfs/QmXSc8ue81Ezoo9oUBwgdi8TRuYiyAjyz6E8czsvHiwnTP"
+				"bzz-raw://11231c928385f6698908c0b09cf943f3cfbff23e780c588697316e93e345e86f",
+				"dweb:/ipfs/Qme3vTuU3cqoZQ85MTkoXVfYhsCAv2Qmv3pDdRskauktKu"
 			]
 		}
 	},
