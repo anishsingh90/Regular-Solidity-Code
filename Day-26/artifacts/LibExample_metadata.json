@@ -9,16 +9,16 @@
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "num1",
+						"name": "a",
 						"type": "uint256"
 					},
 					{
 						"internalType": "uint256",
-						"name": "num2",
+						"name": "b",
 						"type": "uint256"
 					}
 				],
-				"name": "getPow",
+				"name": "pow",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -48,7 +48,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-26/code3.sol": "LibraryExample"
+			"Day-26/code3.sol": "LibExample"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
