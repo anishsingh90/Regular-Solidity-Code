@@ -10,7 +10,7 @@ interface Member {
 contract Techer is Member{
     function setName() public pure returns(string memory){
         return "Anish";
-    }
+    } 
 
     //implement the requiered 'setAge()' here
     function setAge() public pure returns(uint){

@@ -60,11 +60,11 @@
 	},
 	"sources": {
 		"Day-23/code1.sol": {
-			"keccak256": "0x947f226832f8d1ff6c859f82a0b8c3a13794f49d71fc5c5e6d0d858cb57290ce",
+			"keccak256": "0xf16a0258e85ab61c94b0289d08b0c90c7dada800d0fbd0a5b7573b6e55a17be7",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://61ece6edcf0e2e6437dfe0fb5b346b977cd0b82394e0a246e6c4cb6f2c7a12da",
-				"dweb:/ipfs/QmdMEBbcGy7jE47uohX1HHPowvaaC7mWviiEuGm6QbNhao"
+				"bzz-raw://df49af3f66277d57389d995a13ed46852ec39789764a29112cfa00ee9b9d768c",
+				"dweb:/ipfs/QmPKPgMAPo9Qt4s77UihvPatPPj8iXPbMpuGdqNa2vwwgy"
 			]
 		}
 	},
