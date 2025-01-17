@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "nums",
+						"type": "uint256[]"
+					},
+					{
+						"internalType": "uint256",
+						"name": "target",
+						"type": "uint256"
+					}
+				],
+				"name": "findTwoSum",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-29/code1.sol": "TwoSum"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-29/code1.sol": {
+			"keccak256": "0x0d34c01bf343c4bf2bc20dfbe89c004381d486ca02e4c596f260235f4329b802",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7c541f523b8dc22615f02c7a13c8301dbe9b0eb041e1719376f8d2bf2d8dc293",
+				"dweb:/ipfs/Qmd4KN4J82mBTVmgiHkG9fqo3Pnp3mvResKHocsAJaKLvZ"
+			]
+		}
+	},
+	"version": 1
+}
