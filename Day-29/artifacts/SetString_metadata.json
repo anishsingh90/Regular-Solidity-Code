@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_value",
+						"type": "string"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-29/code2.sol": "SetString"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-29/code2.sol": {
+			"keccak256": "0xd8b8abf29a8cfd47dd9e0b0787a56fb0808277a2153394f62bdeac558490da70",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://766a9859268ebebf2c73fd8c3fc1a6d9ef233180b29ca4c10cc964eb1f910399",
+				"dweb:/ipfs/QmVoZUFwqv2kBiscpxPXvQtE6VuGW11W3h5mSGP61uSF3B"
+			]
+		}
+	},
+	"version": 1
+}
