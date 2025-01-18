@@ -6,8 +6,8 @@ contract SimpleBank{
     mapping (address => uint) private balances;
 
     //events for deposit and withdrawal
-    event Deposit(address indexed user, uint256);
-    event Withdrawal(address indexed user, uint256);
+    event Deposit(address indexed user, uint256 amount);
+    event Withdrawal(address indexed user, uint256 amount);
 
     constructor() {}
 
