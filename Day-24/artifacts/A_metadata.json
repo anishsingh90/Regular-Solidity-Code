@@ -73,10 +73,10 @@
 	},
 	"sources": {
 		"Day-24/code1.sol": {
-			"keccak256": "0x6bac551e0cb6050cfaf8e2b8bc6db4b99d3353615be4ecc7e3c4b52470d0a76f",
+			"keccak256": "0x7dd587e26fd4c9f4087e3a8ec41083d4523302353a1ac633c5ab7245102e4f1f",
 			"urls": [
-				"bzz-raw://8c42be4f51c5c790825576fb81c146b68fa54fe75c89440eb570218574656537",
-				"dweb:/ipfs/QmQhsCCgaUpmpW4srtzfEtU5sawTAJR6asvKNS6jffG2ex"
+				"bzz-raw://38e808deb7ba141a63dd73289ecf19361656e607f0a32f826707c5a0cd0af702",
+				"dweb:/ipfs/QmVymBGbdGbEbeHUNp8jjpBu7JgyRzVPMeEgjMVXXSjcBr"
 			]
 		}
 	},
