@@ -6,7 +6,6 @@ contract Do_while{
     uint[] public data;
 
     uint8 j = 0;
-
     function get() public returns(uint[] memory){
         do{
             j++;
