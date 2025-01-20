@@ -45,7 +45,7 @@
 						"type": "uint256"
 					}
 				],
-				"name": "Withdrawal",
+				"name": "Withdrwal",
 				"type": "event"
 			},
 			{
@@ -95,7 +95,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-30/code1.sol": "SimpleBank"
+			"Day-31/bank.sol": "SimpleBank"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -109,12 +109,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-30/code1.sol": {
-			"keccak256": "0xc933a2a45b8ef56dae2f1756d9c0cb8b0c6cf6dc74f43e95be01e01fbcd0c58c",
+		"Day-31/bank.sol": {
+			"keccak256": "0x373a3b9dedc69c4c7b32f55e5e98738acaeacc21e68e6da74fbd81e2ec459aba",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://330363873748e49d266c56846ac34abb36ee567c660464cf766e16eead3ef819",
-				"dweb:/ipfs/QmSBhUS9tR42NjQt1XfMrLzxN1qr7G6w7XLtzsndxKCLuS"
+				"bzz-raw://0d8663cd125cc1a66e8f79eb5e942dd576604cd055edbefac565e90723d8120d",
+				"dweb:/ipfs/QmP8Kq48ctCz22ZZSwaXqD2qjaCqoKpqL8KunFFneXbn1Z"
 			]
 		}
 	},
