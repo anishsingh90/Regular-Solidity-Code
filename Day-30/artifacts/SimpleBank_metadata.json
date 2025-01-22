@@ -110,11 +110,11 @@
 	},
 	"sources": {
 		"Day-30/code1.sol": {
-			"keccak256": "0xc933a2a45b8ef56dae2f1756d9c0cb8b0c6cf6dc74f43e95be01e01fbcd0c58c",
+			"keccak256": "0xcb8657585ec8358e6cc09aee3b330f8d995b356572dff0ab70a779e90666a899",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://330363873748e49d266c56846ac34abb36ee567c660464cf766e16eead3ef819",
-				"dweb:/ipfs/QmSBhUS9tR42NjQt1XfMrLzxN1qr7G6w7XLtzsndxKCLuS"
+				"bzz-raw://62b98e6da0a378d602f20a890f25689009d2aa27e1468b5c2afd4416fa453504",
+				"dweb:/ipfs/QmaaLowmnohNdhurjdFBUKfHqz5u2upPCZggE57kwxon6e"
 			]
 		}
 	},

@@ -11,7 +11,7 @@ contract SimpleBank {
 
     // Constructor (optional)
     constructor() {}
-
+ 
     // Deposit function
     function deposit() external payable {
         // Check if sent ether is greater than 0
