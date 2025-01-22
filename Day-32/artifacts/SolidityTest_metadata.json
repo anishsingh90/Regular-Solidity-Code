@@ -6,60 +6,29 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [],
+				"name": "message",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
-						"internalType": "uint256",
-						"name": "x",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "y",
-						"type": "uint256"
+						"internalType": "string",
+						"name": "value",
+						"type": "string"
 					}
 				],
 				"name": "set",
 				"outputs": [],
 				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "sum",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "var1",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "var2",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -76,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-32/code1.sol": "SolidityTest"
+			"Day-32/code2.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -90,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-32/code1.sol": {
-			"keccak256": "0xf81cc6c2df072a7b58526d106346e23ecbc7b6ffcde027a8538cd58a055e3ee7",
+		"Day-32/code2.sol": {
+			"keccak256": "0x96e197f5021adc559f721cd0104d824633e721629eedd097f03219150df7536a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://48bc272aae9f567540fe50e98fc207cd8c32120524779b67ce4d056a00967c48",
-				"dweb:/ipfs/QmUXtXuCr9C79Z1QkfYVjq6LXDBzarT4xfUM9FNdKT1YmM"
+				"bzz-raw://9166cddc963f203419d31509779e7e67c4e5e9c26b08e69048c9041fdd8a879e",
+				"dweb:/ipfs/QmUPA2ifoEWFunJnT2YniNM3Rp3WbJ2tWJmMmvkDCNHvQb"
 			]
 		}
 	},
