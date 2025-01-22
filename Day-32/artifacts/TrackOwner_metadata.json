@@ -6,29 +6,32 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"name": "a",
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "asset",
 				"outputs": [
 					{
 						"internalType": "uint256",
-						"name": "",
+						"name": "assetID",
 						"type": "uint256"
+					},
+					{
+						"internalType": "address",
+						"name": "owner",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "details",
+						"type": "string"
 					}
 				],
 				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "x",
-						"type": "uint256"
-					}
-				],
-				"name": "set",
-				"outputs": [],
-				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -45,7 +48,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-32/code3.sol": "SolidityTest"
+			"Day-32/ownership.sol": "TrackOwner"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +62,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-32/code3.sol": {
-			"keccak256": "0x22de2ee7175d87c34b96950faef910fed8c09469ab320babd3b4a33baa5f147b",
+		"Day-32/ownership.sol": {
+			"keccak256": "0x176a4557b640b46ff8c811d0a3a83a89fb23dab1bac9ecfe31a648cf819f712c",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://82daf5cf9c714285570c5e4ff929b61819799d8ef81d76467193dadfb6b8f6bd",
-				"dweb:/ipfs/QmdNdea7srQMtzFeYPsaHGRvEuVjufRPJQ76CTzoeKRjs7"
+				"bzz-raw://66813612e9dbe44da7f9a460bf3cffd6a7ff6f9d22faebb0e607adfbb4f5777b",
+				"dweb:/ipfs/Qmaug6w6vHgzizEPjdpBcHRKHYF5YJYgV4qGGR9kjrp3T3"
 			]
 		}
 	},
