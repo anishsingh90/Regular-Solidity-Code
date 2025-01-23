@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [],
-				"name": "getResult",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -32,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-34/code2.sol": "SolidityTest"
+			"Day-34/code4.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-34/code2.sol": {
-			"keccak256": "0xd0293413351f5133e17ef357b039343bf3d6cf62df6a8a9ffbb1904c9dd757c6",
+		"Day-34/code4.sol": {
+			"keccak256": "0x66cd22541100ef6dd97d6b7d66fdbabe2143784aa71feda0d83c3de9019a8630",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://d164b617cb9ac4854967674e5b21c334799b5cf5df6c549fb0c24f321effca68",
-				"dweb:/ipfs/Qmecx1hhYGCq6eYNq1boCDRzsTUDEdNBZxp4DxavdfjG9j"
+				"bzz-raw://6c35263087a802be116fdee4c6e69fafe8939c230669b81e958e28052353d191",
+				"dweb:/ipfs/QmUg9qmK5TiwhgX7Ru8xr6HhtFH8usekHpz1nY9meoR5AF"
 			]
 		}
 	},
