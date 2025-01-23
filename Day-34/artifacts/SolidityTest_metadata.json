@@ -7,12 +7,7 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "state_var",
+				"name": "getResult",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -37,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-34/code1.sol": "SolidityTest"
+			"Day-34/code2.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -51,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-34/code1.sol": {
-			"keccak256": "0x95e0b30f39071a294ce942ae5c8b291f93e1bb57a954f2a53cc9235b30bedd96",
+		"Day-34/code2.sol": {
+			"keccak256": "0xd0293413351f5133e17ef357b039343bf3d6cf62df6a8a9ffbb1904c9dd757c6",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://de0468bdb20ad3f19d3ef570d45d849f2db0a5d4c2af2d71c8d21c28c181f90b",
-				"dweb:/ipfs/QmP1AnJQV3ZdNFmQxe6qTEKmhCbXDcJ1pT6qsW8qHM2Hsd"
+				"bzz-raw://d164b617cb9ac4854967674e5b21c334799b5cf5df6c549fb0c24f321effca68",
+				"dweb:/ipfs/Qmecx1hhYGCq6eYNq1boCDRzsTUDEdNBZxp4DxavdfjG9j"
 			]
 		}
 	},
