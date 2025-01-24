@@ -8,7 +8,7 @@ contract Types {
 	// Declaring state variables
 	// of type array
 	uint[6] data1; 
-	
+	 
 	// Defining function to add 
 	// values to an array 
 	function array_example() public returns (
