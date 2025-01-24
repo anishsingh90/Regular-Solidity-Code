@@ -7,15 +7,15 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "get",
+				"name": "Loop",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256[]",
 						"name": "",
-						"type": "string"
+						"type": "uint256[]"
 					}
 				],
-				"stateMutability": "view",
+				"stateMutability": "nonpayable",
 				"type": "function"
 			}
 		],
@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-35/code6.sol": "SolidityTest"
+			"Day-35/code4.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-35/code6.sol": {
-			"keccak256": "0x96be38f30ba9d834e97e2f439c0323b7e555c88e1705b607c6bbf463285e17cd",
+		"Day-35/code4.sol": {
+			"keccak256": "0x72b2c528c7ca2a7ae03f8eb31be2b817d1b4bb53971ef3f481858dee8f0a74c3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a2ad4f6102cd13ce682070c0674395fac0622a49d104d36e47e15fb129bccb9c",
-				"dweb:/ipfs/QmeedpJN5r8sJjLtT6ZtMkTxerT534eo7nQr21baWQJNwL"
+				"bzz-raw://5404412c27b1a67f7c1ceaca8e582ed75e8579a5920d23dcb7a6f44b31f1fed2",
+				"dweb:/ipfs/QmZ1c9QwccruXLqWfKp4QMLrVN6sE8aKM6d2Pi4PxEDvCf"
 			]
 		}
 	},
