@@ -7,15 +7,15 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "decison",
+				"name": "get",
 				"outputs": [
 					{
-						"internalType": "bool",
+						"internalType": "string",
 						"name": "",
-						"type": "bool"
+						"type": "string"
 					}
 				],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-35/code5.sol": "SolidityTest"
+			"Day-35/code6.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-35/code5.sol": {
-			"keccak256": "0xaf583c89063e914da5223bbb01de46feecb3e6feafe4ffb855fb2276cbd6f14c",
+		"Day-35/code6.sol": {
+			"keccak256": "0x96be38f30ba9d834e97e2f439c0323b7e555c88e1705b607c6bbf463285e17cd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3eb2c4c83fcad70e20a82bcaf3029c92fb1b513e73783480c6210cd28b40c180",
-				"dweb:/ipfs/QmP3KDpk1nBKTnoaM8cyoJR7nPH9AnTGa44J62P9BwwdPz"
+				"bzz-raw://a2ad4f6102cd13ce682070c0674395fac0622a49d104d36e47e15fb129bccb9c",
+				"dweb:/ipfs/QmeedpJN5r8sJjLtT6ZtMkTxerT534eo7nQr21baWQJNwL"
 			]
 		}
 	},
