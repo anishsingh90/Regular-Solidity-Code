@@ -32,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-35/code2.sol": "SolidityTest"
+			"Day-35/code3.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -46,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-35/code2.sol": {
-			"keccak256": "0xa12bea3f64ae0489382ca9914f83fbdbdace50819a05579968d342ac5ffe6f0d",
+		"Day-35/code3.sol": {
+			"keccak256": "0x2b46fd3bda1b561823ed7c78e1aa50d602f7f1861bcda1ca3b8ba2a16272e399",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://2eb967d23bd0b4c33d76cd17d67324a8cb48d0febe095cb2cb7b0f3b49d322b1",
-				"dweb:/ipfs/QmfAZFMseiPddsRPTHBCKbqpAaeSdNt4y9F2jfibCjDTRb"
+				"bzz-raw://c3a7683eac26f0bc40addf4489816ee0fc70644e0ab4b5ecb0efea857457be23",
+				"dweb:/ipfs/QmTj3iCzECJrbqNdTxbSxep7uLhWxzVdkYcWkmoncWugqt"
 			]
 		}
 	},
