@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "user",
+						"type": "address"
+					}
+				],
+				"name": "addUser",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "user",
+						"type": "address"
+					}
+				],
+				"name": "removeUser",
+				"type": "event"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Day-35/code7.sol": "userMNanagement"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Day-35/code7.sol": {
+			"keccak256": "0xeb65c84ff1845936df986bdc4b627f523fdd88654fc69a5bf093be093f6eb446",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f5321239f652908662f3b913664332e01aa31a550d489c4c8132f71eccfd054e",
+				"dweb:/ipfs/Qma1k3uGUhCfF6Bt2aFSaY1JdvcGUueJ1gvutbrVP6bGUu"
+			]
+		}
+	},
+	"version": 1
+}
