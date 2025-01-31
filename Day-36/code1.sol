@@ -7,7 +7,7 @@ contract SolidityTest{
     constructor() public {
         text = "Hello World";
     }
-    
+     
     function setText() public view returns(string memory){
         return text;
     }
