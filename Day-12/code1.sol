@@ -12,7 +12,7 @@ contract GeeksForGeeks
 	fallback() external payable{
 		calledFallbackFun="Fallback function is executed!";
 	}
-
+    
 	function getBalance() public view returns (uint) {
 		return address(this).balance;
 	}
