@@ -7,19 +7,17 @@
 		"abi": [
 			{
 				"inputs": [],
-				"name": "increase",
-				"outputs": [],
 				"stateMutability": "nonpayable",
-				"type": "function"
+				"type": "constructor"
 			},
 			{
 				"inputs": [],
-				"name": "num",
+				"name": "a",
 				"outputs": [
 					{
-						"internalType": "uint256",
+						"internalType": "address",
 						"name": "",
-						"type": "uint256"
+						"type": "address"
 					}
 				],
 				"stateMutability": "view",
@@ -39,7 +37,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-07/code3.sol": "State_var"
+			"Day-07/code1.sol": "State_var"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -53,12 +51,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-07/code3.sol": {
-			"keccak256": "0x2881c0e89e5d8af32e354f956841469b66516808b8ec48fc02c37b04a5face9f",
+		"Day-07/code1.sol": {
+			"keccak256": "0x108d53d235eb9d3c785ca192262a33d1e70980fed94a34444c1cb6e2cf5ae276",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://e2883e0a5d7152af6c94b95023df903e4f6b9dfe0b21f8b2ef0e290e9d34000a",
-				"dweb:/ipfs/QmWGezTfvmbmaGGptsTeh8awa6T4dsuGynwjcGJfd7bw1s"
+				"bzz-raw://d7bfaa43eaac3da3ea640d9d2ef4d21301ba6fc041ff5313a44b47915ff20429",
+				"dweb:/ipfs/QmVkyMZyLsnPvVXPucsDMxiA6LvAEfaS9X6uioHMu5apP9"
 			]
 		}
 	},
