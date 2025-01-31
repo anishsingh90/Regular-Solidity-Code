@@ -6,5 +6,5 @@ contract State_var{
     address public a;
     constructor() public {
         a = msg.sender;
-    }
+    } 
 }
