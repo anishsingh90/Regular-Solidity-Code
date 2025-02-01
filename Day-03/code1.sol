@@ -12,7 +12,7 @@ contract Condition{
             value = "More Adult";
         } else{
             value = "Not Adult";
-        } 
+        }  
         return value;
     }
 }
