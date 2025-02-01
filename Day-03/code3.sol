@@ -7,7 +7,6 @@ contract SolidityTest{
     constructor() public {
         storedData = 10;
     }
-
     function getResult() public view returns(string memory){
         uint a = 1; //local variable
         uint b = 2;

@@ -6,7 +6,7 @@ contract SolidityTest{
     bool public booleans = false;
 
     string public Name = "Anish Singh";
-
+ 
     uint public Number = 29;
     
     bytes public b = "a";
