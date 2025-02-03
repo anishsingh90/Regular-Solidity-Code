@@ -5,7 +5,7 @@ contract SolidityTest{
     uint public var1;
     uint public var2;
     uint public sum;
-
+ 
     function set(uint x, uint y) public {
         var1 = x;
         var2 = y;

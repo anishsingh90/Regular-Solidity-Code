@@ -6,8 +6,26 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "y",
+						"type": "uint256"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
 				"inputs": [],
-				"name": "a",
+				"name": "sum",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -19,16 +37,29 @@
 				"type": "function"
 			},
 			{
-				"inputs": [
+				"inputs": [],
+				"name": "var1",
+				"outputs": [
 					{
 						"internalType": "uint256",
-						"name": "x",
+						"name": "",
 						"type": "uint256"
 					}
 				],
-				"name": "set",
-				"outputs": [],
-				"stateMutability": "nonpayable",
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "var2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -45,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-32/code3.sol": "SolidityTest"
+			"Day-32/code1.sol": "SolidityTest"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -59,12 +90,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-32/code3.sol": {
-			"keccak256": "0x22de2ee7175d87c34b96950faef910fed8c09469ab320babd3b4a33baa5f147b",
+		"Day-32/code1.sol": {
+			"keccak256": "0xbe2306a1f180417c7ef75099252b455c5be3e975962314df5ca7fe96bb052027",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://82daf5cf9c714285570c5e4ff929b61819799d8ef81d76467193dadfb6b8f6bd",
-				"dweb:/ipfs/QmdNdea7srQMtzFeYPsaHGRvEuVjufRPJQ76CTzoeKRjs7"
+				"bzz-raw://e23deaa83b243aa7654022c257b52173e0fc7d27d29e520f72dedfb551f1b8e3",
+				"dweb:/ipfs/QmZyjEbJtVPaG2hb7KjjGsUiSPkV264VXuW1WS3hj6AaGb"
 			]
 		}
 	},
