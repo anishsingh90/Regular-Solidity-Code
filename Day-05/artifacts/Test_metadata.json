@@ -24,55 +24,11 @@
 						"internalType": "uint256",
 						"name": "x",
 						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "y",
-						"type": "uint256"
 					}
 				],
 				"name": "set",
 				"outputs": [],
 				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "sum",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "var1",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "var2",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
 				"type": "function"
 			}
 		],
@@ -89,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Day-05/code1.sol": "Test"
+			"Day-05/code2.sol": "Test"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -103,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"Day-05/code1.sol": {
-			"keccak256": "0xbc82a1b409b4c1e7ffdc23d10fa8bc05a71028ab84d10607f2678f739d76a5bb",
+		"Day-05/code2.sol": {
+			"keccak256": "0xbfe94221e8eda4b4545843d1b2dd91637ed449f69be74dc977cef2b2eb5bc26a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://4aa71604fb408577a117d62670b812ff201f1a763aa15d6bce9d7dd14262b6ff",
-				"dweb:/ipfs/Qma8vxogPBkfn4Z8cDAaYKDz4wTmJFVNfnZ5MrA89HHbKy"
+				"bzz-raw://ded06aca6d8eac3c7e4668cc4841675ea21be1ab76c3320780b89281270a505c",
+				"dweb:/ipfs/QmXx22s3yHwYnvbC9YHDqwUqLWr3M1UuAcQrqxU1vQWCkz"
 			]
 		}
 	},

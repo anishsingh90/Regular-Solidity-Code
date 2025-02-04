@@ -7,7 +7,7 @@ contract Test{
     function set(uint x) public {
         a = x;
     }
-
+ 
     function get() public view returns(uint){
         return a;
     }
