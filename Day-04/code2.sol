@@ -36,4 +36,4 @@ contract SolidityTest{
         }
         return string(bstr);
     } 
-}
+} 
