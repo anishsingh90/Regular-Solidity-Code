@@ -14,7 +14,7 @@ contract Continue_stmnt{
             if(i == 5){
                 break;
             }
-            data.push(i);
+            data.push(i); 
         }
         return data;
     }
