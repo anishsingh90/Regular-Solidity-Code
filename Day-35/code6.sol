@@ -12,5 +12,5 @@ contract SolidityTest{
         }else{
             return "Greater than 10";
         }
-    }
+    } 
 }
