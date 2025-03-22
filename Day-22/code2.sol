@@ -9,4 +9,4 @@ contract DerivedContract is AbstractContract{
     function getStr(string memory _strIn) public pure override returns(string memory){
         return _strIn;
     }
-}
+} 
