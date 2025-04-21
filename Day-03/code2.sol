@@ -12,4 +12,4 @@ contract Addition{
         uint c = a + b;
         return c;
     }
-}
+} 
