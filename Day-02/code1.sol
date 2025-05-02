@@ -10,4 +10,4 @@ contract SolidityTest{
         data = 3; //internal access
         return data;
     }
-}
+} 
