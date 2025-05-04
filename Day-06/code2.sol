@@ -10,7 +10,7 @@ contract SolidityTest{
 
     string public str = "Geeks For Geeks";
 
-    bytes1 public b = "a";
+    bytes1 public b = "a"; 
 
     enum my_enum{geeks_, _for, geeks}
 
