@@ -9,6 +9,6 @@ contract SolidityTest{
  
     uint public Number = 29;
     
-    bytes public b = "a";
+    bytes public b = "a"; 
 
 }
