@@ -17,4 +17,4 @@ contract SolidityTest{
     function Enum() public pure returns(my_enum){
         return my_enum.geeks;
     }
-}
+} 
